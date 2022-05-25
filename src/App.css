@@ -1,0 +1,13 @@
+.App {
+  /* min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.adjustWallet{
+  height: 30px !important;
+  align-self: center !important;
+  text-align: center !important;
+  align-items: center !important;
+}
